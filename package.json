@@ -1,0 +1,13 @@
+{
+  "name": "youtube-clip-finder",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2",
+    "node-fetch": "^2.6.7",
+    "firebase-admin": "^11.0.0"
+  }
+}
